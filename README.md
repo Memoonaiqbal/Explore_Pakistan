@@ -37,7 +37,7 @@ Ensure you have the following:
 ```
 2️⃣ **Open the Project**
    - Navigate to the project folder
-   - Open `index.html` in a web browser
+   - Open `prpject22.html` in a web browser
 
 ## 🎯 How to Use
 🔍 **Search for a City:** Enter a city name in the search box and press `Enter` to retrieve details.  
