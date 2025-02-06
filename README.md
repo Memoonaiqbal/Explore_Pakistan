@@ -1,6 +1,5 @@
 # 🌍 Explore Pakistan - Discover the Beauty of Pakistan
 
-![Explore Pakistan](https://yourimageurl.com/banner.png)  
 *A web-based interactive travel guide for exploring Pakistan*  
 
 ## 📌 Overview
@@ -78,7 +77,7 @@ This project is licensed under the **MIT License**.
 ## 📞 Contact & Support
 For any inquiries or suggestions, feel free to reach out:
 - **GitHub Profile**: [Memoonaiqbal](https://github.com/Memoonaiqbal)  
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Email**: [YourEmail@example.com](mailto:memoonaiqbal3710@gmail.com)
 
 🚀 *Explore Pakistan and discover its beauty like never before!* 🇵🇰✨
 
