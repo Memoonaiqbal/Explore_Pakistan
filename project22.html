@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Pakistan</title>
+    <link rel="stylesheet" href="project2.css">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+</head>
+<body>
+    <header>
+        <h1>Explore Pakistan</h1>
+        <input type="text" id="search" placeholder="Search for a city or region...">
+    </header>
+
+    <main>
+        <div id="map"></div>
+        <div id="info-box">
+            <h2 id="location-title">Select a Location</h2>
+            <div id="image-container"></div>
+            <p id="description">Click on a location to see details.</p>
+
+            <!-- Weather Widget -->
+            <div id="weather-widget">
+                <h3>Current Weather</h3>
+                <p id="weather-info">No data available</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <!-- Main JavaScript -->
+    <script src="project2.js"></script>
+</body>
+</html>
